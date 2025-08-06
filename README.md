@@ -20,3 +20,4 @@ Para visualizar o projeto, basta seguir os passos:
 
 * [José Alisson](https://github.com/Jose-AlissonM)
 * [Alany Vitória](https://github.com/AlanyVitoria)
+* [Túlio Borges](https://github.com/TulioR2)
